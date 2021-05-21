@@ -1,0 +1,8 @@
+Temporary repository of emplify
+
+.env we need
+
+DELIVERY_API_KEY=m4MVTb1tC0i6MRiqoryM46S-fWHc0gi281kh4vPVGbc
+PREVIEW_API_KEY=Zf-XDVxemRV1Kl7P7cppnFSSwBgEGNsuHL0IudLR2pM
+CONTENTFUL_SPACE_ID=cpumif18y1gd
+CONTENTFUL_ENVIRONMENT=Emplifi
